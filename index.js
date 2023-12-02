@@ -1,0 +1,1 @@
+console.log("Nível do Herói")
