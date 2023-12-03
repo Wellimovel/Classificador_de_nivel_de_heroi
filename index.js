@@ -27,7 +27,7 @@ if (xpHeroi < 1000) {
 console.log(nomeHeroi);
 console.log(xpHeroi);
 
-while (xpHeroi){
-  console.log("O Herói de nome " + nomeHeroi + " está no nível de " + rank);
-}
+
+console.log("O Herói de nome "+ nomeHeroi+ " está no nível de "+rank)
+
 
